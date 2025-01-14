@@ -1,2 +1,2 @@
 # Hotelmenu
-first_propject
+first_project
